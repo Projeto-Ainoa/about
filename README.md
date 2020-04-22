@@ -1,5 +1,8 @@
 # SOBRE
 
+<img width="200" alt="projeto ainoa" src="https://raw.githubusercontent.com/Projeto-Ainoa/about/master/logo-AINOA.png">
+
+
 ![Projeto AINOÁ](https://raw.githubusercontent.com/Projeto-Ainoa/about/master/logo-AINOA.png =250x)
 
 Repositório de códigos do projeto AINOÁ. Projeto que aplica sensoriamento e inteligência artificial para monitoramento da Barragem do Paranoá, em Brasília. 
